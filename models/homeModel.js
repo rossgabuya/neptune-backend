@@ -1,6 +1,6 @@
 import mongoose, { Schema } from 'mongoose';
 
-// Define movie schema
+// Define home schema
 var homeSchema = new Schema({
   ph: Number,
   vol: Number,
